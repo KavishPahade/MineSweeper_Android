@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MineSweeper</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+   <string name="main_title">MineSweeper</string>
+   <string name="continue_label">Continue</string>
+   <string name="new_game_label">New Game</string>
+   <string name="about_label">About</string>
+   <string name="exit_label">Exit</string>
+   
+   <string name="mine_image">Mine Image</string>
+   <string name="flag_image">Flag Image</string>
+   <string name="music_title">Music</string>
+   <string name="music_summary">Play background music</string>
+  
+   <string name="settings_title">Sudoku settings</string>
+   
+   <string name="about_title">About Android Sudoku</string>
+   <string name="about_text">\
+Minesweeper is a single-player video game. 
+The objective of the game is to clear an abstract minefield without detonating a mine. 
+</string>
+</resources>
